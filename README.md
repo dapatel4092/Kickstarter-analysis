@@ -1,5 +1,4 @@
-# Kickstarting with Excel
-Analysis of Kickstarter Campaign  
+# Analysis of Kickstarter Campaign  
 
 ## Overview and Purpose
 After Louise's play came close to its fundraising goal, she is now curious how her play "Fever" fared in comparison to other plays and if there are specific variables or trends that lead campaigns to become more successful than others such as launch dates and funding goals.
