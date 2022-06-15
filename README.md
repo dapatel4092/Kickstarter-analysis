@@ -10,7 +10,11 @@ After Louise's play came close to its fundraising goal, she is now curious how h
 
 First, we started off by sorting our data by theater outcomes by launch dates. We did this by using the =YEAR function based on the date the dataset was created. After finding they're dates created and date ended we then create a pivot table by having the filters be parent category (theater) and years, our outcomes in the column section, and rows as date created conversion and finally "count of outcomes" in the values section. This table now shows us Theater outcomes based on launch dates over a years time. 
  
-Pic of pivotable 
+
+
+
+<img width="329" alt="Screen Shot 2022-06-14 at 5 38 01 PM" src="https://user-images.githubusercontent.com/107335786/173712297-16c3c874-c369-4cdc-b010-ebb38acafa5f.png">
+
 
 
 
@@ -22,9 +26,10 @@ After, we created a line chart to help visualize the percentage rate of successf
 
 
 
+![theater coutcomes](https://user-images.githubusercontent.com/107335786/173712062-92c1f4d6-fee7-46aa-9dcc-6ef546eda137.png)
 
 
-Pic of chart 
+
 
 
 
@@ -36,13 +41,15 @@ From this chart we can see that the month of May had the highest success rate wh
 Next, we analyzed our dataset by looking at outcomes based on their goal's dollar-amount range. To determine this we used the =COUNTIF function to detect the number of successful, failed, and canceled at each goal dollar-amount range. After we grabbed the data for our data set, we then grabbed the average percentage for successful, failed and canceled at each dollar-amount range.
 
 
-Pic pivot table 
+<img width="1295" alt="Screen Shot 2022-06-14 at 5 42 15 PM" src="https://user-images.githubusercontent.com/107335786/173712610-7f16398b-7aa4-474c-a823-e1adc7dd895f.png">
+
 
 
 We then use this data to create a line chart. This line chart helps us visualize the percentage of outcome rate based on goal dollar-amount ranges. 
 
 
-Pic line graph 
+![Picture1](https://user-images.githubusercontent.com/107335786/173712427-6cbf597d-4756-4fbb-9ba6-0ff675999f5e.png)
+
 
 
 
